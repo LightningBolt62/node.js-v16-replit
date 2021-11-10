@@ -1,3 +1,4 @@
+## Note: Use the new [NodeJS 16 template](https://replit.com/@RoBlockHead/NodeJS-16) instead of this please. That one is far easier to use and makes it simple to upgrade it the future as it uses nix. (Recommended by replit staff)
 # Node.js 16/14 on replit
 
 Steps:
